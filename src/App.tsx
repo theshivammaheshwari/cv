@@ -100,7 +100,7 @@ function App() {
             >
               <div className="absolute inset-0 bg-gradient-to-br from-blue-500 to-purple-600 rounded-full transform rotate-6 scale-105"></div>
               <img
-                src="https://raw.githubusercontent.com/theshivammaheshwari/cv/36258d5bb71b3b5477b09c5cb050cdc82f40f989/shivam.jpg"
+                src="https://github.com/theshivammaheshwari/cv/blob/283d0c9a51d2f4888ab2415531e8c555f609aeb3/shivam.jpg"
                 alt="Shivam Maheshwari"
                 className="relative w-full h-full rounded-full object-cover border-4 border-white shadow-xl"
               />
